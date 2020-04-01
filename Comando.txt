@@ -17,3 +17,4 @@
  - 'git show'   // Apresenta determinado ponto na história
  - 'git remote -v' // Apresenta os repositórios remotos;
  - 'git push -u origin master' // quando for a primeira vez, é preciso criar a branch master no repositório online.
+ - 'git config credential.helper store' // Usado para não precisar colocar login e senha todas vez que for upar pra nuvem.
